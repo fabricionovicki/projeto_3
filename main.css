@@ -1,0 +1,69 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #000;
+}
+
+.navbar {
+    background-color: #000;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #000;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+.section-title {
+    font-family: "Boldonse", system-ui;
+}
+
+#about,
+#cardapio {
+    background-color: #f2f2f2;
+}
+
+#eventos,
+#contato {
+    color: #fff;
+}
+
+p {
+    text-align: justify;
+}
+
+.text-colored {
+    color: #c9c9c9;
+}
+
+.nav-servicos .nav-link.active,
+#contato button {
+    background-color: #fff;
+    color: #000;
+}
+
+.nav-servicos .nav-link:hover,
+.nav-link.active .nav-link.active:hover{
+    color: #000;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a {
+    text-decoration: none;
+}
+
+.carousel-item img {
+    width: 100%;
+}  
